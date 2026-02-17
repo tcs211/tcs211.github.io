@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /load/
+Disallow: /load/*?data=*
